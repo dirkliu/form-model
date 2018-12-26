@@ -1,5 +1,4 @@
 class FormModel {
-
   constructor (options) {
     this._observeKeys = []
     this.defaults = {}
